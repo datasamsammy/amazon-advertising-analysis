@@ -60,3 +60,20 @@ Increase bids for high performing keywords and reduce spend on inefficient ones.
 
 ![ACOS vs Conversion](acos_vs_conversion.png)
 
+## Business Recommendations
+
+Based on the analysis:
+
+Scale advertising spend for:
+- wireless speaker
+- mini speaker
+- waterproof speaker
+
+These keywords show strong conversion rates and high ROAS.
+
+Monitor performance for:
+- bass speaker
+- loud bluetooth speaker
+
+Reduce bids or pause advertising for:
+- cheap bluetooth speaker
