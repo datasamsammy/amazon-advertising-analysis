@@ -1,5 +1,13 @@
 # Amazon Advertising Keyword Analysis
 
+## Business Problem
+
+Amazon sellers often run advertising campaigns targeting many keywords.
+
+Without analysing performance data, it can be difficult to identify which keywords are profitable and which ones are wasting advertising budget.
+
+This analysis aims to identify profitable keywords and recommend advertising strategy improvements.
+
 ## Overview
 
 This project analyses Amazon advertising keyword performance using Python.
