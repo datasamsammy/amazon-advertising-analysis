@@ -81,3 +81,12 @@ Based on the analysis:
 • Reduce or pause **cheap bluetooth speaker** due to low conversion rate and poor advertising efficiency.
 
 • Review **bluetooth speaker** and **party speaker** campaigns to improve targeting or reduce CPC.
+
+## Skills Demonstrated
+
+• Data analysis using Python and Pandas  
+• Marketing performance analysis  
+• Advertising efficiency metrics (ACOS, ROAS, Conversion Rate)  
+• Data visualisation using Matplotlib  
+• Business insight generation  
+• Marketing optimisation recommendations  
