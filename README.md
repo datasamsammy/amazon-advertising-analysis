@@ -35,5 +35,5 @@ Increase bids for high performing keywords and reduce spend on inefficient ones.
 
 ## Visualisation
 
-<img width="1980" height="1499" alt="roas_vs_spend" src="https://github.com/user-attachments/assets/47c9e968-1ace-4698-afd8-d9e60d73b4af" />
+![ROAS vs Spend](roas_vs_spend.png)
 
