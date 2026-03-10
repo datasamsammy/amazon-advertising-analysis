@@ -76,8 +76,8 @@ Increase bids for high performing keywords and reduce spend on inefficient ones.
 
 Based on the analysis:
 
-Increase bids on mini speaker, wireless speaker, and waterproof speaker keywords due to strong ROAS.
+• Increase bids on **mini speaker**, **wireless speaker**, and **waterproof speaker** keywords due to strong ROAS.
 
-Reduce or pause cheap bluetooth speaker due to low conversion and poor advertising efficiency.
+• Reduce or pause **cheap bluetooth speaker** due to low conversion rate and poor advertising efficiency.
 
-Review bluetooth speaker and party speaker campaigns to improve targeting or reduce CPC.
+• Review **bluetooth speaker** and **party speaker** campaigns to improve targeting or reduce CPC.
