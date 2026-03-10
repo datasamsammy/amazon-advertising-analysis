@@ -60,6 +60,8 @@ This chart compares advertising spend with return on ad spend (ROAS).
 
 ### ACOS vs Conversion Rate
 
+This chart compares conversion with advertising cost of sales (ACOS).
+
 ![ACOS vs Conversion](acos_vs_conversion.png)
 
 ## Business Recommendations
